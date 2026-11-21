@@ -14,6 +14,16 @@ A Python-based web application that allows users to encrypt and decrypt text sec
 - Download encrypted text.
 - Clear input fields easily.
 - Security tips and usage instructions.
+  ## Project Screenshots
+
+### Main Interface
+![Main Interface](screenshot%20of%20encryption%20tool%281%29.png)
+
+### Encryption and Decryption
+![Encryption and Decryption](screenshot%20of%20encryption%20tool%282%29.png)
+
+### Security Tips
+![Security Tips](screenshot%20of%20encryption%20tool%283%29.png)
 
 ## Technologies Used
 
