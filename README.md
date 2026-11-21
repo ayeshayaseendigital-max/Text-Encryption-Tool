@@ -27,7 +27,7 @@ A Python-based web application that allows users to encrypt and decrypt text sec
 
 1. Clone this repository:
 
-   git clone YOUR_REPOSITORY_LINK
+   git clone https://github.com/ayeshayaseendigital-max/Text-Encryption-Tool.git
 
 2. Open the project folder.
 
